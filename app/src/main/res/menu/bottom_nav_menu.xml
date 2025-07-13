@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_nav_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/bottom_nav_content"
+        android:icon="@drawable/subscriptions_24px"
+        android:title="Content" />
+    <item
+        android:id="@+id/bottom_nav_groups"
+        android:icon="@drawable/groups_24px"
+        android:title="Groups" />
+    <item
+        android:id="@+id/bottom_nav_recordings"
+        android:icon="@drawable/voicemail_24px"
+        android:title="recordings" />
+    <item
+        android:id="@+id/bottom_nav_account"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="Account" />
+
+</menu>

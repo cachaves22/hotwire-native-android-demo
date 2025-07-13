@@ -1,0 +1,17 @@
+<resources>
+    <color name="colorPrimary">#ea5455</color>
+    <color name="colorPrimaryVariant">#ea5455</color>
+    <color name="colorOnPrimary">#ea5455</color>
+    <color name="colorSurface">#EBEBEB</color>
+    <color name="colorOnSurface">#ea5455</color>
+    <color name="md_theme_bottom_navigation">#ea5455</color>
+    <color name="colorControlNormal">#ea5455</color>
+    <color name="color_secondary">#5321fc</color>
+    <color name="color_secondary_variant">#4632cf</color>
+
+    <color name="color_background">#ea5455</color>
+    <color name="color_surface">#ea5455</color>
+    <color name="color_error">#b00020</color>
+    <color name="nav_background">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>

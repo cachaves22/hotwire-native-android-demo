@@ -1,0 +1,32 @@
+<resources>
+    <style name="Base.Theme.SampleApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Set the top bar color to black -->
+        <item name="colorPrimary">@color/nav_background</item>
+        <item name="colorPrimaryVariant">@color/nav_background</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Set status bar to black too -->
+        <item name="android:statusBarColor">@color/nav_background</item>
+
+        <!-- Set color for the icons in the top bar (like back button) -->
+        <item name="android:navigationIcon">@color/white</item>
+        <item name="navigationIconTint">@color/white</item>
+
+        <!-- Set color for the text in the toolbar to white -->
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/white</item>
+
+        <!-- Set other default colors -->
+        <item name="android:navigationBarColor">@color/nav_background</item>
+        <!-- Bottom Navigation Item colors -->
+
+
+<!--        <item name="colorSecondary">@color/nav_background</item>-->
+<!--        <item name="colorSecondaryVariant">@color/nav_background</item>-->
+<!--        <item name="colorOnSecondary">@color/white</item>-->
+<!--        <item name="colorSurface">@color/colorSurface</item>-->
+<!--        <item name="colorControlNormal">@color/colorSurface</item>-->
+
+    </style>
+    <style name="Theme.SampleApp" parent="Base.Theme.SampleApp" />
+</resources>

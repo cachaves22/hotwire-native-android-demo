@@ -1,0 +1,21 @@
+<resources>
+    <style name="Base.Theme.SampleApp" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
+        <item name="android:textColor">@color/colorSurface</item>
+        <item name="android:textColorPrimary">@color/colorSurface</item>
+        <item name="android:tint">@color/colorSurface</item>
+        <item name="navigationIconTint">@color/colorSurface</item>
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colorPrimary</item>
+        <item name="colorSecondary">@color/colorPrimary</item>
+        <item name="colorSecondaryVariant">@color/colorPrimary</item>
+        <item name="colorOnSecondary">@color/colorPrimary</item>
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorControlNormal">@color/colorSurface</item>
+
+        <item name="android:statusBarColor">@color/colorPrimary</item>
+    </style>
+    <style name="Theme.SampleApp" parent="Base.Theme.SampleApp" />
+</resources>
