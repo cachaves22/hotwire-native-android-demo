@@ -1,6 +1,6 @@
 # Hotwire Native Android Demo
 
-This is a demo Android app built using [Turbo Android](https://github.com/hotwired/turbo-android), showing how Ruby on Rails apps can be extended into native Android experiences with minimal native code.
+This is a demo Android app built using [Turbo Android](https://native.hotwired.dev/android/getting-started), showing how Ruby on Rails apps can be extended into native Android experiences with minimal native code.
 
 ## 🧱 Tech Stack
 
